@@ -9,10 +9,7 @@ using System.Windows.Forms;
 using ShadowEngine.ContentLoading;
 
 using testprogram;
-/*
- * Based on open source project by Vasily Tserekh, used under Code Project Open License 1.02
- * Modified for Neurosky Project Fall 2014
- */
+
 namespace CarRace
 {
     class Player
